@@ -4,9 +4,7 @@
 var banner = {
     title       : 'EdTech & Courses',
     description : 'With a long tradition of Educational Technology (EdTech) research, the GDC is investigating student data analytics/ML, the 360 degree view, new teaching platforms, feedback acceleration, connected intelligence, microcredentials, as well as scalable low-cost bootcamps.',
-    image       : 'img/data/bokeh.jpg',
-    linkIsVideo : true,    
-    link        : 'https://www.youtube.com/embed/tIkz4wfev5A'
+    image       : 'img/data/bokeh.jpg'
 };
 
 
@@ -30,17 +28,20 @@ features.push({
     image       : 'images/code_editor_500.jpg'
 });
 
-/*
+
 // the domain videos
 // ----------------------------------
-
 var boxes = [];
 boxes.push({
-    title       : 'Onexi',
-    subtitle    : 'Engineering Computation & Data Science',
-    description : 'Engineering Computation brought to you by Abel Sanchez and John R. Williams. Introduces the fundamentals of computational thinking and data science in engineering computation.We thank Github, Amazon, and Google for their support.',
-    thumbnail   : 'images/code_576.jpg'
+    title       : 'Predictive Analytics',
+    subtitle    : 'Predictive Analytics of Active Learning Based Education',
+    description : 'Thesis By Anuj Bheda',
+    url         : 'https://www.youtube.com/embed/CQM9WYAcwyI',
+    video       : true,    
+    thumbnail   : 'images/education_play.jpg'
 });
+
+/*
 boxes.push({
     title       : 'SAFARI',
     subtitle    : 'Situational Awareness Framework for Risk Ranking',

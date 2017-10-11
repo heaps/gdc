@@ -20,21 +20,39 @@ boxes.push({
     description : 'Disrupting social media rules of engagement',
     url         : 'https://www.youtube.com/embed/4Q-WYFm2dl0',
     video       : true,
-    thumbnail   : 'images/social_media_500.jpg'
+    thumbnail   : 'images/social_media_play.jpg'
 });
 boxes.push({
-    title       : 'SAFARI',
-    subtitle    : 'Situational Awareness Framework for Risk Ranking',
-    description : 'Situational Awareness framework that exploits different perspectives of the same financial data and assigns risk scores to entities (e.g. payment documents) to improve false positive ratios and assist the identification of fraudulent activity in huge and unlabeled financial data.',
-    url         : 'https://www.youtube.com/embed/Kypp0XhcImU',
+    title       : 'IPFS',
+    subtitle    : 'Interplanetary File System',
+    description : 'The InterPlanetary File System (IPFS) is a protocol designed to create a permanent and decentralized method of storing and sharing files.',
+    url         : 'https://www.youtube.com/embed/Je_VUrn0HhQ',
     video       : true,
-    thumbnail   : 'images/safari_play_576.jpg'
+    thumbnail   : 'img/people/john_play.jpg'
 });
 boxes.push({
-    title       : 'SAFFRON',
-    subtitle    : 'Applied Computation Research',
-    description : 'SAFFRON is a risk modeling and data analytics tool that allows energy delivery OT operators to better understand the risks associated with cyber threats.',
-    url         : 'https://www.youtube.com/embed/pnk-EawgbrA',
+    title       : 'IPFS Demo',
+    subtitle    : 'Interplanetary File System Demo',
+    description : 'The InterPlanetary File System (IPFS) is a protocol designed to create a permanent and decentralized method of storing and sharing files.',
+    url         : 'https://www.youtube.com/embed/PPo4Hk-u_3w',
     video       : true,
-    thumbnail   : 'images/electric_576.jpg'    
+    thumbnail   : 'img/people/john_play.jpg'
 });
+boxes.push({
+    title       : 'Merkle DAG',
+    subtitle    : 'Merkle DAG used by Git',
+    description : 'Merkle tree is a tree in which every leaf node is labelled with a data block and every non-leaf node is labelled with the cryptographic hash of the labels of its child nodes.',
+    url         : 'https://www.youtube.com/embed/ronoCeMzfJ4',
+    video       : true,
+    thumbnail   : 'img/people/john_play.jpg'
+});
+boxes.push({
+    title       : 'Smart Contracts',
+    subtitle    : 'Smart Contracts and their Application in Supply Chain Management',
+    description : 'Thesis - Smart Contracts and their Application in Supply Chain Management - By Angwei Law',
+    url         : 'https://www.youtube.com/embed/pjV4_x4SG_E',
+    video       : true,
+    thumbnail   : 'images/contract_play.jpg'
+});
+
+
