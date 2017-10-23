@@ -1,11 +1,10 @@
 var gdc = {};
-
 gdc.navigation_links = '';
 gdc.navigation_links += '        <li class="nav-item">';
 gdc.navigation_links += '          <a class="nav-link" href="index.html">Home</a>';
 gdc.navigation_links += '        </li>';
 gdc.navigation_links += '        <li class="nav-item dropdown">';
-gdc.navigation_links += '          <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown07" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>';
+gdc.navigation_links += '          <a class="nav-link dropdown-toggle" href="" id="dropdown07" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Research</a>';
 gdc.navigation_links += '          <div class="dropdown-menu" aria-labelledby="dropdown07">';
 gdc.navigation_links += '            <a class="dropdown-item" href="iot.html">Internet of Things (IOT)</a>';
 gdc.navigation_links += '            <a class="dropdown-item" href="security.html">Cybersecurity</a>';
@@ -13,7 +12,7 @@ gdc.navigation_links += '            <a class="dropdown-item" href="blockchain.h
 gdc.navigation_links += '            <a class="dropdown-item" href="ar.html">Augmented Reality</a>';
 gdc.navigation_links += '            <a class="dropdown-item" href="education.html">EdTech</a>';
 gdc.navigation_links += '            <a class="dropdown-item" href="simulation.html">Simulation</a>';
-gdc.navigation_links += '            <a class="dropdown-item" href="team.html">Team</a>';    
+gdc.navigation_links += '            <a class="dropdown-item" href="team.html">Team</a>';
 gdc.navigation_links += '          </div>';
 gdc.navigation_links += '        </li>';
 gdc.navigation_links += '        <li class="nav-item">';
@@ -21,7 +20,15 @@ gdc.navigation_links += '          <a class="nav-link" href="education.html">Cou
 gdc.navigation_links += '        </li>';
 gdc.navigation_links += '        <li class="nav-item">';
 gdc.navigation_links += '          <a class="nav-link" href="media.html">Media</a>';
-gdc.navigation_links += '        </li>';    
-gdc.navigation_links += '        <li class="nav-item">';
-gdc.navigation_links += '          <a class="nav-link" href="team.html">Team</a>';
+gdc.navigation_links += '        </li>';  
+gdc.navigation_links += '        <li class="nav-item dropdown">';
+gdc.navigation_links += '          <a class="nav-link dropdown-toggle" href="team.html" id="dropdown08" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">People</a>';
+gdc.navigation_links += '          <div class="dropdown-menu" aria-labelledby="dropdown08">';
+gdc.navigation_links += '            <a class="dropdown-item" href="team.html">People</a>';
+gdc.navigation_links += '            <a class="dropdown-item" href="advisors_faculty.html">Leadership Committee</a>';
+gdc.navigation_links += '            <a class="dropdown-item" href="advisors_security.html">Cybersecurity</a>';
+gdc.navigation_links += '            <a class="dropdown-item" href="advisors_rfid.html">Supply Chain</a>';
+gdc.navigation_links += '            <a class="dropdown-item" href="advisors_media.html">Media</a>';
+gdc.navigation_links += '            <a class="dropdown-item" href="advisors_gis.html">GIS</a>';
+gdc.navigation_links += '          </div>';
 gdc.navigation_links += '        </li>';

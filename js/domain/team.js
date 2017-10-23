@@ -1,9 +1,13 @@
 // the domain banner 
 // ----------------------------------
+/*
+'GDC is always looking for strong students and researchers. A strong preference is given to students who have been admitted to MIT. Similarly, research assistant positions are typically filled internally by graduate students.<br><a href="#join" class="badge badge-primary">Join The Team</a>'
+*/
+
 
 var banner = {
-    title       : 'Team',
-    description : 'GDC is always looking for strong students and researchers. A strong preference is given to students who have been admitted to MIT. Similarly, research assistant positions are typically filled internally by graduate students.<br><a href="#join" class="badge badge-primary">Join The Team</a>',
+    title       : 'People',
+    description : advisorsDescription,
     image       : 'img/data/bokeh.jpg'
 };
 
