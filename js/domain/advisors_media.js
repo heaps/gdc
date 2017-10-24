@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'Geocoded Media Advisors',
-    description : advisorsDescription,
+    description : gdc.advisorsDescription + gdc.advisorsButtons,
     image       : 'img/data/bokeh.jpg'
 };
 

@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'Leadership Committee',
-    description : advisorsDescription,
+    description : gdc.advisorsDescription + gdc.advisorsButtons,
     image       : 'img/data/bokeh.jpg'
 };
 

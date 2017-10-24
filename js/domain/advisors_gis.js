@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'GIS',
-    description : advisorsDescription,
+    description : gdc.advisorsDescription + gdc.advisorsButtons,
     image       : 'img/data/bokeh.jpg'
 };
 

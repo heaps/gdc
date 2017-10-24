@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'Geocoded Supply Chain',
-    description : advisorsDescription,
+    description : gdc.advisorsDescription + gdc.advisorsButtons,
     image       : 'img/data/bokeh.jpg'
 };
 
