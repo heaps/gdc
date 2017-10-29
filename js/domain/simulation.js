@@ -3,11 +3,48 @@
 
 var banner = {
     title       : 'GDC Global Simulation Platform',
-    description : 'The GDC Simulator provides decision makers with a tool that allows understanding and predicting the consequences of the deployment of new network topologies, hardware conﬁgurations or software applications in a global data infrastructure, without affecting the service. The simulator was validated on the data infrastructure of a Fortune 100 company.',
+    description : 'The GDC Simulator provides decision makers with a tool that allows understanding and predicting the consequences of the deployment of new network topologies, hardware conﬁgurations or software applications in a global data infrastructure, without affecting the service. The simulator was validated on the data infrastructure of a Fortune 100 company.<div><a href="pdf/sim/brochure.pdf" class="badge badge-info">Simulator Brochure</a> <a href="pdf/sim/paper.pdf" class="badge badge-info">Simulator Paper</a> <a href="pdf/safari/brochure.pdf" class="badge badge-info">Safari Brochure</a> <a href="pdf/safari/presentation.pdf" class="badge badge-info">Safari Presentation</a> <a href="pdf/safari/futurework.pdf" class="badge badge-info">Safari Future Work</a> <a href="pdf/safari/architecture.pdf" class="badge badge-info">Safari Architecture </a></div>',
     image       : 'img/data/bokeh.jpg',
-    linkIsVideo : true,    
-    link        : 'https://www.youtube.com/embed/Kypp0XhcImU'
+    linkIsVideo : false,    
+    link        : ''
 };
+
+// simulation document links
+// ----------------------------------
+gdc.sim = {};
+gdc.sim.docs = [];
+gdc.sim.description = '<p>The GDC Simulator provides decision makers with a tool that allows understanding and predicting the consequences of the deployment of new network topologies, hardware conﬁgurations or software applications in a global data infrastructure, without affecting the service. The simulator was validated on the data infrastructure of a Fortune 100 company.</p>';
+
+gdc.sim.docs.push({
+    url : 'pdf/sim/brochure.pdf',
+    label : 'Global MIT IT Simulator Brochure'
+});
+gdc.sim.docs.push({
+    url : 'pdf/sim/paper.pdf',
+    label : 'Global MIT IT Simulator Paper'
+});
+gdc.sim.docs.push({
+    url : 'pdf/safari/brochure.pdf',
+    label : 'Safari Brochure'
+});
+gdc.sim.docs.push({
+    url : 'pdf/safari/presentation.pdf',
+    label : 'Safari Presentation'
+});
+gdc.sim.docs.push({
+    url : 'pdf/safari/futurework.pdf',
+    label : 'Safari Future Work'
+});
+gdc.sim.docs.push({
+    url : 'pdf/safari/architecture.pdf',
+    label : 'Safari Architecture - Technology Platform'
+});
+
+gdc.sim.list = '<ul>';
+gdc.sim.docs.forEach(function(doc){
+    gdc.sim.list += '<li><a href="' + doc.url + '">' + doc.label + '</a></li>';
+});
+gdc.sim.list += '</ul>';
 
 
 // the domain videos

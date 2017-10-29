@@ -29,7 +29,12 @@
 
     <div class="container marketing">
 
-      <br>
+      <hr>
+      <h2>Simulators</h2>
+      <div id="simulators"></div>
+      <hr>
+
+      <h2>Simulator Videos</h2>
       <div id="domainFancyBoxes" style="margin-top: 0px;"></div>
 
     </div><!-- /.container -->
@@ -52,5 +57,9 @@
     <script src="js/domain/banner.js"></script>    
     <script src="js/domain/fancyBoxes.js"></script>
     <script src="js/domain/footer.js"></script>    
+
+    <script> 
+      document.getElementById('simulators').innerHTML= gdc.sim.description + gdc.sim.list;
+    </script>    
   </body>
 </html>
