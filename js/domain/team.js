@@ -7,7 +7,7 @@
 
 var banner = {
     title       : 'People',
-    description : 'Meet the women and men of the GDC',
+    description : 'Meet the women and men of the GDC<div><a href="join.html" class="badge badge-info">Join GDC</a> <a href="#gdcadvisors" class="badge badge-info">Advisory Board</a> <a href="#gdcteam" class="badge badge-info">Meet The Team</a></div>',
     image       : 'img/data/bokeh.jpg'
 };
 

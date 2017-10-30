@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'EdTech & Courses',
-    description : 'With a long tradition of Educational Technology (EdTech) research, the GDC is investigating student data analytics/ML, the 360 degree view, new teaching platforms, feedback acceleration, connected intelligence, microcredentials, as well as scalable low-cost bootcamps.',
+    description : 'With a long tradition of Educational Technology (EdTech) research, the GDC is investigating student data analytics/ML, the 360 degree view, new teaching platforms, feedback acceleration, connected intelligence, microcredentials, as well as scalable low-cost bootcamps.<div><a href="http://onexi.org/" class="badge badge-info">Engineering Computation and Data Science</a> <a href="http://cybersecurity.mit.edu/" class="badge badge-info">Applied Cybersecurity</a> <a href="http://compuxo.org/" class="badge badge-info">Architecting & Engineering Software Systems</a></div>',
     image       : 'img/data/bokeh.jpg'
 };
 
