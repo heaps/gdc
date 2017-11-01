@@ -66,6 +66,10 @@ students.push({
 
 // ----------------------------------------
 students.push({
+    name : 'Xiating Ouyang',
+    img  : 'img/people/oliver.jpg'
+});
+students.push({
     name : 'Derek Ma',
     img  : 'img/people/derekma.jpg'
 });
