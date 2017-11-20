@@ -23,6 +23,14 @@ boxes.push({
     thumbnail   : 'images/social_media_play.jpg'
 });
 boxes.push({
+    title       : 'Kogs BlockChain',
+    subtitle    : 'Kogchain Private BlockChain',
+    description : 'Kogchain is a demonstration blockchain deployed at MIT GDC for testing private blockhain architecture',
+    url         : 'https://youtu.be/azEKqGwi0qM',
+    video       : true,
+    thumbnail   : 'img/blockchain/kogchain1.jpg'
+});
+boxes.push({
     title       : 'IPFS',
     subtitle    : 'Interplanetary File System',
     description : 'The InterPlanetary File System (IPFS) is a protocol designed to create a permanent and decentralized method of storing and sharing files.',
