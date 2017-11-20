@@ -28,7 +28,7 @@ boxes.push({
     description : 'Kogchain is a demonstration blockchain deployed at MIT GDC for testing private blockhain architecture',
     url         : 'https://www.youtube.com/embed/azEKqGwi0qM',
     video       : true,
-    thumbnail   : 'img/blockchain/kogchain1.jpg'
+    thumbnail   : 'img/blockchain/kogchain1.JPG'
 });
 boxes.push({
     title       : 'IPFS',
