@@ -24,7 +24,7 @@ boxes.push({
 });
 boxes.push({
     title       : 'Kogs BlockChain',
-    subtitle    : 'Kogchain Private BlockChain',
+    subtitle    : 'Kogchain MIT Private BlockChain',
     description : 'Kogchain is a demonstration blockchain deployed at MIT GDC for testing private blockhain architecture',
     url         : 'https://youtu.be/azEKqGwi0qM',
     video       : true,
