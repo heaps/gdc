@@ -3,7 +3,7 @@
 
 var banner = {
     title       : 'GeoSpatial',
-    description : 'Lidar and photogrametry provide detailed data to detect change. We have developed cloud computing services for machine learning to analyze large datasets',
+    description : 'Lidar and photogrammetry provide detailed data to detect change. We have developed cloud computing services for machine learning to analyze large datasets',
     image       : 'img/geospatial/powerlinelidar.jpg',
     linkIsVideo : true,    
     link        : 'https://www.youtube.com/embed/8ICOM6_q7m4'
