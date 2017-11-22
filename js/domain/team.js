@@ -101,6 +101,11 @@ students.push({
 });
 
 students.push({
+    name : 'Cheung Tsz Chung',
+    img  : 'img/people/yi_zhou.jpg'
+});
+
+students.push({
     name : 'Linda Gong',
     img  : 'img/people/LindaGong.jpg'
 });
