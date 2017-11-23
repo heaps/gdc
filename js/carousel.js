@@ -6,7 +6,7 @@
     carousel.push({
         title       : 'Geospatial Data Center',
         subtitle    : 'Applied Computation Research',
-        description : 'The MIT Geospatial Data Center is the uniting force of MIT\'s Intelligent Engineering Systems Laboratory, bringing together applied computation research in Data Science, Cybersecurity, Simulation, Augmented Reality, the Internet of Things (IOT), Blockchain, and Educational Technology (EdTech).<div><a href="data.html" class="badge badge-info">Data Science</a> <a href="security.html" class="badge badge-info">Cybersecurity</a> <a href="iot.html" class="badge badge-info">IOT</a> <a href="blockchain.html" class="badge badge-info">Blockchain</a> <a href="education.html" class="badge badge-info">EdTech</a> <a href="simulation.html" class="badge badge-info">Simulation </a> <a href="ar.html" class="badge badge-info">Augmented Reality</a> <a href="team.html" class="badge badge-info">Team</a></div>',
+        description : 'The MIT Geospatial Data Center is the uniting force of MIT\'s Intelligent Engineering Systems Laboratory, bringing together applied computation research in Data Science, Cybersecurity, Simulation, Augmented Reality, the Internet of Things (IOT), Blockchain, and Educational Technology (EdTech).<div><a href="data.html" class="badge badge-info">Data Science</a> <a href="security.html" class="badge badge-info">Cybersecurity</a> <a href="iot.html" class="badge badge-info">IOT</a> <a href="blockchain.html" class="badge badge-info">Blockchain</a> <a href="education.html" class="badge badge-info">EdTech</a> <a href="simulation.html" class="badge badge-info">Simulation </a> <a href="geospatial.html" class="badge badge-info">Geospatial</a> <a href="ar.html" class="badge badge-info">Augmented Reality</a> <a href="team.html" class="badge badge-info">Team</a></div>',
         video       : '',
         image       : 'images/spatial_01_low.jpg',
         isactive    : true        
@@ -69,6 +69,15 @@
         video       : '',
         image       : 'images/ar_06_low.jpg'
     });
+
+    carousel.push({
+        title       : 'Geospatial Analytics',
+        subtitle    : 'Geospatial Data Science',
+        description : 'Turns Geospatial Big Data into advanced data analytics insights to support public works, oil & gas, and utilities operational safety and reliability.<div><a href="geospatial.html" class="badge badge-info">More Information ...</a></div>',
+        video       : '',
+        image       : 'images/lidar_02.jpg'
+    });
+
 
     carousel.push({
         title       : 'Team',

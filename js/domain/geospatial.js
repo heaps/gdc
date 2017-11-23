@@ -5,8 +5,8 @@ var banner = {
     title       : 'GeoSpatial',
     description : 'Lidar and photogrammetry provide detailed data to detect change. We have developed cloud computing services for machine learning to analyze large datasets',
     image       : 'img/geospatial/powerlinelidar.jpg',
-    linkIsVideo : true,    
-    link        : 'https://www.youtube.com/embed/8ICOM6_q7m4'
+    linkIsVideo : false,    
+    link        : ''
 };
 
 
@@ -15,12 +15,12 @@ var banner = {
 
 var boxes = [];
 boxes.push({
-    title       : 'Social Media',
-    subtitle    : 'Social Network Opportunities',
-    description : 'Disrupting social media rules of engagement',
-    url         : 'https://www.youtube.com/embed/4Q-WYFm2dl0',
+    title       : 'Geospatial Machine Learning',
+    subtitle    : 'Cloud computing services for machine learning',
+    description : 'Lidar and photogrammetry provide detailed data to detect change. We have developed cloud computing services for machine learning to analyze large datasets',
+    url         : 'https://www.youtube.com/embed/8ICOM6_q7m4',
     video       : true,
-    thumbnail   : 'images/social_media_play.jpg'
+    thumbnail   : 'img/geospatial/lidar_play.jpg'
 });
 
 
