@@ -46,7 +46,7 @@ boxes.push({
     description : 'Keynote presentation at E-Learning Asia by John Williams',
     url         : 'https://www.youtube.com/embed/6Adtd52ezYk',
     video       : true,    
-    thumbnail   : 'images/thumbnails/johnw.png'
+    thumbnail   : 'images/thumbnails/johnw2.png'
 });
 boxes.push({
     title       : 'Future of Work',
@@ -54,7 +54,7 @@ boxes.push({
     description : 'What will be the future division of labor between humand and machine. What does it mean for education?',
     url         : 'https://www.youtube.com/embed/CrJd9K_kXHA',
     video       : true,    
-    thumbnail   : 'images/thumbnails/johnw.png'
+    thumbnail   : 'images/thumbnails/johnw2.png'
 });
 
 /*
