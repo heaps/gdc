@@ -40,6 +40,15 @@ boxes.push({
     video       : true,    
     thumbnail   : 'images/education_play.jpg'
 });
+boxes.push({
+    title       : 'E-Learning Asia',
+    subtitle    : 'Predictive Analytics of Active Learning Based Education',
+    description : 'Keynote presentation at E-Learning Asia by John Williams',
+    url         : 'https://www.youtube.com/embed/6Adtd52ezYk',
+    video       : true,    
+    thumbnail   : 'images/education_play.jpg'
+});
+
 
 /*
 boxes.push({
