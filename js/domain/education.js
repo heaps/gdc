@@ -42,7 +42,7 @@ boxes.push({
 });
 boxes.push({
     title       : 'E-Learning Asia 2017',
-    subtitle    : 'Predictive Analytics of Active Learning Based Education',
+    subtitle    : 'Can we turn education into a science?',
     description : 'Keynote presentation at E-Learning Asia by John Williams',
     url         : 'https://www.youtube.com/embed/6Adtd52ezYk',
     video       : true,    
