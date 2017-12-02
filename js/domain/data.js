@@ -68,6 +68,14 @@ boxes.push({
     video       : true,
     thumbnail   : 'images/coin_576.jpg'    
 });
+boxes.push({
+    title       : 'Clock Tick and OODA Loop',
+    subtitle    : 'Why companies need to be Agile',
+    description : 'Agile is needed not only in software. Today many systems we manage may be chaotic',
+    url         : 'https://www.youtube.com/embed/RVBm_rmW9f4',
+    video       : true,
+    thumbnail   : 'images/thumbnail/johnw2.png'    
+});
 
 
 // the domain features 
