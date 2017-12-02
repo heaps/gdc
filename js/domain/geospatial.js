@@ -2,8 +2,8 @@
 // ----------------------------------
 
 var banner = {
-    title       : 'GeoSpatial',
-    description : 'Lidar and photogrammetry provide detailed data to detect change. We have developed cloud computing services for machine learning to analyze large datasets',
+    title       : 'GeoSpatial and Big Data Analytics',
+    description : 'We specialize in spatial computation. Lidar and photogrammetry provide detailed data to detect change. We have developed cloud computing services for machine learning to analyze large datasets',
     image       : 'img/geospatial/powerlinelidar.jpg',
     linkIsVideo : false,    
     link        : ''
