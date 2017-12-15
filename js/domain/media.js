@@ -169,11 +169,11 @@ if (request.status === 200) {
         console.log('video.snippet.title: ' + video.snippet.title);
         boxes.push({
             title       : video.snippet.title,
-            subtitle    : '',
+            subtitle    : video.snippet.description,
             description : '',
             url         : 'https://www.youtube.com/embed/' + video.id.videoId,
             video       : true,
-            thumbnail   : video.snippet.thumbnails.medium.url
+            thumbnail   : 'http://img.youtube.com/vi/' + video.id.videoId + '/mqdefault.jpg'
         });
 
     });
