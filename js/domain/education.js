@@ -40,6 +40,22 @@ boxes.push({
     video       : true,    
     thumbnail   : 'images/education_play.jpg'
 });
+boxes.push({
+    title       : 'E-Learning Asia 2017',
+    subtitle    : 'Can we turn education into a science?',
+    description : 'Keynote presentation at E-Learning Asia by John Williams',
+    url         : 'https://www.youtube.com/embed/6Adtd52ezYk',
+    video       : true,    
+    thumbnail   : 'images/thumbnails/johnw2.png'
+});
+boxes.push({
+    title       : 'Future of Work',
+    subtitle    : 'Human + Machine Future',
+    description : 'What will be the future division of labor between humand and machine. What does it mean for education?',
+    url         : 'https://www.youtube.com/embed/CrJd9K_kXHA',
+    video       : true,    
+    thumbnail   : 'images/thumbnails/johnw2.png'
+});
 
 /*
 boxes.push({
