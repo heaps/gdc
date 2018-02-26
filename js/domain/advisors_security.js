@@ -27,7 +27,7 @@ features.push({
 
 
 features.push({
-    title       : 'Owen McCusker Principle, Sonalysts, Inc',
+    title       : 'Owen McCusker Principle, Secureworks Inc',
     description : '<div><p>Owen started a cyber security group up at Sonalysts in 2001 and focuses on the research and development of cyber security products and services for the company. Since 2001, Owen has been involved in a number of cyber security programs ranging from providing technical support for large national cyber exercises to developing security policies for government agencies. Prior to coming to Sonalysts, Owen was a software architect Dictaphone, a provider of multi-channel telephony recording products and an Internet Engineer at Fidelity, developing secure frameworks facilitating online trading.<br><br>At Sonalysts, Owen has been researching and developing the use of Network Behavioral Analysis (NBA) capabilities in cyber defense. In 2006, the Department of Homeland Security, Science and Technology, funded the creation of a NBA-based fusion prototype. Based on this work he has been invited to a number or workshops and symposiums including the 2009 National Cyber Leap Year, 2010 NATO R&T Cyber Defense Workshop in Estonia, and in 2011 Global Cyber-physical Supply Chain Summit in Wales. Owen holds a Masters in Computer Science from Rensselaer Polytechnic Institute.</p></div>',
     image       : 'img/people/advisors/owen.jpg'
 });
