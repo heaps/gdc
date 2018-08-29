@@ -32,6 +32,26 @@
     html += '  </form>';    
     html += '</nav>';
     document.getElementById('footernavbar').innerHTML = html;    
+
+    // load google analytics 
+    function callback(script) {
+        document.head.appendChild(script);
+        console.log('script was loaded'); 
+
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-39667041-1');
+    }
+    function loadScript() {
+        var url = 'https://www.googletagmanager.com/gtag/js?id=UA-39667041-1';
+        var script = document.createElement('script');
+        script.setAttribute('src', url);
+        script.async = false;          
+        script.onload = callback(script);
+    }
+    loadScript();    
+
     
 })();
 
